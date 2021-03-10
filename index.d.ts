@@ -1,4 +1,4 @@
-declare module 'lame' {
+declare module '@suldashi/lame' {
     import { WriteStream } from 'fs';
     import { DuplexOptions } from 'stream';
 
